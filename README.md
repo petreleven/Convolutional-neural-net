@@ -1,2 +1,2 @@
 # Convolutional-neural-net
-A cnn built from reading the book grokking deep Learning
+A cnn built from reading the good book grokking deep Learning
